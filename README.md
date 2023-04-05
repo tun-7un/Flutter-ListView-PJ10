@@ -1,16 +1,16 @@
-# pj10
+# Flutter PJ10
 
-A new Flutter project.
+A new Flutter project 4/4/2023. "Memories"
 
-## Getting Started
+**Mobile Details👽**
 
-This project is a starting point for a Flutter application.
+I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
-A few resources to get you started if this is your first Flutter project:
+- 💼 Mobile app in  [[■■■■■■■□□] 80%](https://www.tiktok.com/@bastndev)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Mockup 📱
+---
+<!--Mockup-->  
+  <div align="center"> 
+    <img src="https://github.com/bastndev/Git-Test/blob/main/IMG/on11.png" alt="">
+  </div>
