@@ -6,7 +6,7 @@ A new Flutter project 4/4/2023. "Memories"
 
 I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
-- 💼 Mobile app in  [[■■■■■■■□□] 80%](https://www.tiktok.com/@bastndev)
+- 💼 Mobile app in  [[■■■■■■□□□] 70%](https://www.tiktok.com/@bastndev)
 
 ## Mockup 📱
 ---
